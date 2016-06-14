@@ -12,7 +12,7 @@ package dam_ed04_actividad;
 public class Empleado {
     
     
-    protected String nombre;
+    protected String nombres;
     protected String apellido;
     protected String dni;
 
